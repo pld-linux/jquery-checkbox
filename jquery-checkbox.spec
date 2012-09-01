@@ -10,7 +10,6 @@ Group:		Applications/WWW
 Source0:	https://jquery-checkbox.googlecode.com/files/jquery-checkbox.%{version}b1.zip
 # Source0-md5:	3b4c993af810fa82b8e0a1a206ce0952
 URL:		https://code.google.com/p/jquery-checkbox/
-BuildRequires:	closure-compiler
 BuildRequires:	rpmbuild(macros) >= 1.268
 BuildRequires:	unzip
 BuildRequires:	yuicompressor
